@@ -1,0 +1,20 @@
+# Authors
+
+Harsh:
+  name        : "Harsh Murari"
+  uri         : "http://www.rhoynar.com"
+  email       : "harsh@rhoynar.com"
+  bio         : "Software Developer - Python and Automation"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  twitter     : "hmurari"
+  google_plus : "HarshMurari"
+
+Priyesh:
+  name        : "Priyesh Sanghvi"
+  uri         : "http://www.rhoynar.com"
+  email       : "priyesh@rhoynar.com"
+  bio         : "Software Developer - Security"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  twitter     : "psanghvi"
+  google_plus : "PriyeshSanghvi"
+

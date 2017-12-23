@@ -1,12 +1,60 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Courses"
+    url: /courses
+  - title: "How To"
+    url: /how-to
+  - title: "About"
+    url: /about
+
+
+# sidebar links
+side:
+  - title: "Courses"
+    children:
+      - title: "Python Basics"
+        url: /courses/python-basics
+      - title: "Python Advanced"
+        url: /courses/python-advanced
+      - title: "Testing with Python"
+        url: /courses/python-testing
+  - title: "Popular Topics"
+    children:
+      - title: "Lists"
+        url: /how-to/lists
+      - title: "Classes"
+        url: /how-to/classes
+      - title: "Functions"
+        url: /how-to/functions
+      - title: "Dictionary"
+        url: /how-to/dictionaries
+      - title: "Maps"
+        url: /how-to/maps
+  - title: "About"
+    children:
+      - title: "About Me"
+        url: /about
+      - title: "Training"
+        url: /training
+      - title: "Hire Me"
+        url: /hire-me
+
+
+# # Footer navigation??
+# foo:
+#   - title: "Parent Link 1"
+#     url: /parent-1-page-url/
+#     children:
+#       - title: "Child Link 1"
+#         url: /child-1-page-url/
+#       - title: "Child Link 2"
+#         url: /child-2-page-url/
+#   - title: "Parent Link 2"
+#     url: /parent-2-page-url/
+#     children:
+#       - title: "Child Link 1"
+#         url: /child-1-page-url/
+#       - title: "Child Link 2"
+#         url: /child-2-page-url/
+#       - title: "Child Link 3"
+#         url: /child-3-page-url/
